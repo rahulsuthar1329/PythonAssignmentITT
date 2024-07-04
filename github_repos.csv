@@ -1,135 +1,135 @@
 github_username,github_email,repo_id,repo_name,is_repo_private,repo_description,repo_open_issues_count,repo_last_updated_date
+mojombo,tom@mojombo.com,144,chronic,False,Chronic is a pure Ruby natural language date parser.,144,01-07-2024
+mojombo,tom@mojombo.com,28,god,False,Ruby process monitor,121,28-06-2024
+mojombo,tom@mojombo.com,1,grit,False,**Grit is no longer maintained. Check out libgit2/rugged.** Grit gives you object oriented read/write access to Git repositories via Ruby.,43,01-07-2024
+technoweenie,technoweenie@hey.com,43,attachment_fu,False,"Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc.",35,31-05-2024
+defunkt,N.A.,425,facebox,False,"Facebook-style lightbox, built in jQuery",28,26-06-2024
+defunkt,N.A.,1336779,dotjs,False,~/.js,27,08-06-2024
+macournoyer,macournoyer@gmail.com,44709583,neuralconvo,False,Neural conversational model in Torch,26,23-05-2024
+atmos,atmos@atmos.org,1076534,camo,False,:lock: an http proxy to route images through SSL,25,02-07-2024
+vanpelt,vanpelt@wandb.com,201387023,font-facer,False,A UI for interpolating fonts,23,02-04-2024
+topfunky,N.A.,3542,gruff,False,Gruff graphing library for Ruby,20,25-06-2024
+vanpelt,vanpelt@wandb.com,179406159,emotion-detector,False,Emotion detector with tfjs,19,02-04-2024
+defunkt,N.A.,270226,cijoe,False,CI Joe is a fun Continuous Integration server. Unmaintained.,17,21-05-2024
 technoweenie,technoweenie@hey.com,2377,acts_as_versioned,False,ActiveRecord plugin for versioning your models.,17,26-12-2023
+defunkt,N.A.,550681,coffee-mode,False,Emacs Major Mode for CoffeeScript,14,04-05-2024
+ezmobius,N.A.,5964,nanite,False,self assembling fabric of ruby daemons,13,12-04-2024
 caged,encytemedia@gmail.com,234451329,airstream,False,Color tools plugin for Figma,13,19-10-2023
-mojombo,tom@mojombo.com,330651,bert,False,BERT (Binary ERlang Term) serialization library for Ruby.,11,22-04-2024
+lukas,lukas@wandb.com,41762759,ml-class,False,Machine learning lessons and teaching projects designed for engineers,12,04-07-2024
+mojombo,tom@mojombo.com,204419,ernie,False,Ernie is an Erlang/Ruby BERT-RPC Server.,9,25-06-2024
 atmos,atmos@atmos.org,125749187,atmos-dot-org-netlify,False,N.A.,9,12-03-2024
-ezmobius,N.A.,158501,chef-deploy,False,Chef Resources and Providers for deploying ruby web apps without capistrano,6,01-05-2023
+defunkt,N.A.,388149,colored,False,Colors in your terminal. Unmaintained.,8,24-04-2024
+evanphx,evan@phx.io,3814699,benchmark-ips,False,Provides iteration per second benchmarking for Ruby,7,02-07-2024
 bmizerany,blake.mizerany@gmail.com,1107816,assert,False,Asserts to Go testing,6,23-05-2024
-kevwil,N.A.,158012,aspen,False,a JRuby web server similar to Thin,6,28-01-2023
-mojombo,tom@mojombo.com,444244,bert.erl,False,Erlang BERT encoder/decoder,5,29-11-2023
-jamesgolick,jamesgolick@gmail.com,37432,active_presenter,False,The presenter library you already know.,5,04-08-2023
-defunkt,N.A.,3594,acts_as_textiled,False,Makes your models act as textiled.,4,05-02-2024
-anotherjesse,anotherjesse@gmail.com,642219152,123,False,N.A.,4,18-05-2023
-jamesgolick,jamesgolick@gmail.com,1148416,always_verify_ssl_certificates,False,Ruby's net/http is setup to never verify SSL certificates by default. Most ruby libraries do the same. That means that you're not verifying the identity of the server you're communicating with and are therefore exposed to man in the middle attacks. This gem monkey-patches net/http to force certificate verification and make turning it off impossible. ,4,27-01-2022
-topfunky,N.A.,24363,ar_fixtures,False,Dumps YAML fixtures from existing data using ActiveRecord,3,23-08-2022
-mojombo,tom@mojombo.com,17358646,asteroids,False,"Destroy your Atom editor, Asteroids style!",3,29-11-2023
-topfunky,N.A.,52452,basic_model,False,"A very thin wrapper around CouchRest, for use with CouchDB and Ruby on Rails.",2,13-08-2019
+wycats,wycats@gmail.com,137634194,argon,False,N.A.,5,02-04-2024
+evanphx,evan@phx.io,56174118,benchmark.fyi,False,A place to share benchmarking results,5,13-01-2024
+jamesgolick,jamesgolick@gmail.com,6388,attribute_fu,False,a better version of this functionality is in rails 2.3. use that!,3,29-02-2024
+KirinDave,N.A.,14187,fuzed,False,"A new revision of Fuzed, the Erlang-based frontend for web apps. Check out the mailing list at http://groups.google.com/group/fuzed",3,04-05-2024
+KirinDave,N.A.,583866,clj-time,False,"A date and time library for Clojure, wrapping the Joda Time library.",3,25-07-2023
+technoweenie,technoweenie@hey.com,1025350,coffee-resque,False,N.A.,3,12-04-2024
+ezmobius,N.A.,131,bmhsearch,False,"Fast string searcher, useful for multi-part post parsing",2,19-04-2024
+jamesgolick,jamesgolick@gmail.com,781384,degrade,False,Keep track of service error rates using redis. Degrade functionality if they're too high.,2,04-06-2024
+topfunky,N.A.,74011,calendar_helper,False,Calendar-generating plugin for Ruby,2,02-03-2024
+brynary,N.A.,202941,arel,False,A Relational Algebra,2,12-10-2023
 bmizerany,blake.mizerany@gmail.com,2968891,aws,False,An old simple AWS client in Go (use bmizerany/aws4 for more up to date aws usage).,2,17-07-2023
 roland,N.A.,3664937,HttpBuildQuery,False,Equivalent of http_build_query in PHP,2,09-08-2019
-ezmobius,N.A.,131,bmhsearch,False,"Fast string searcher, useful for multi-part post parsing",2,19-04-2024
 evanphx,evan@phx.io,53301806,alexa,False,Golang interface to the Amazon Alexa Voice service,2,15-02-2024
-pjhyett,pj@hyett.com,592,errcount,False,simple mongrel handler for a sweet hit counter,2,30-11-2023
-brynary,N.A.,202941,arel,False,A Relational Algebra,2,12-10-2023
-topfunky,N.A.,74011,calendar_helper,False,Calendar-generating plugin for Ruby,2,02-03-2024
-wycats,wycats@gmail.com,1119731,abbot-from-scratch,False,N.A.,1,02-04-2024
-ivey,ivey@gweezlebur.com,9051,carpark,False,"Carpark adds LISP-style car, cdr, and endless combinations of them to the standard Ruby Array, allowing for terse and powerful decomposition of deeply nested arrays: [1, [2, 3, [4, 5], [[[6]]]]].caaaadddadr => 6",1,18-11-2022
-defunkt,N.A.,36,ambition,False,include Enumerable — Unmaintained,1,19-04-2024
-errfree,N.A.,789949,test1,False,N.A.,1,20-03-2023
-lukas,lukas@wandb.com,144174773,colorizer,False,N.A.,1,16-12-2020
-topfunky,N.A.,68860702,blog-comments,False,Issues and comments related to the blog at https://www.topfunky.com,1,18-02-2018
-errfree,N.A.,2277888,test,False,N.A.,1,08-10-2022
-ezmobius,N.A.,5282,acl_system2,False,An access control plugin for Rails,1,29-02-2024
-brynary,N.A.,4588940,active_admin,False,The administration framework for Ruby on Rails applications.,1,22-04-2024
+jamesgolick,jamesgolick@gmail.com,74,enum_field,False,N.A.,2,19-04-2024
+evanphx,evan@phx.io,1574968,benchmark_suite,False,A set of enhancements to benchmark.rb,2,02-01-2023
+lukas,lukas@wandb.com,688163302,otto,False,N.A.,1,26-06-2024
+pjhyett,pj@hyett.com,590,vjot,False,The greatest jotting web app of all time,1,23-05-2024
+tomtt,N.A.,3349,emacs-rails,False,Tomtt's version of the minor mode for editing RubyOnRails code in Emacs,1,08-06-2020
 wayneeseguin,wayneeseguin@gmail.com,205,alogr,False,AlogR is a threadsafe non-blocking asynchronous configurable logger for Ruby.,1,01-06-2024
-pjhyett,pj@hyett.com,4061,auto_migrations,False,Rails plugin for automating migrations,1,24-01-2024
-defunkt,N.A.,12641,ambitious_activerecord,False,"Unmaintained Ambitious ActiveRecord adapter, for Ambition.",1,05-02-2024
-defunkt,N.A.,1861402,ace,False,Ajax.org Cloud9 Editor,0,05-02-2024
-mojombo,tom@mojombo.com,29941343,benbalter.github.com,False,The personal website of Ben Balter. Built using Jekyll and GitHub Pages. See humans.txt for more infos.,0,29-11-2023
-mojombo,tom@mojombo.com,26899533,30daysoflaptops.github.io,False,N.A.,0,29-11-2023
-pjhyett,pj@hyett.com,5281804,git-server,False,pure ruby version of git daemon server functions,0,09-06-2024
-vanpelt,vanpelt@wandb.com,18422658,api-blueprint,False,API Blueprint,0,18-02-2018
-vanpelt,vanpelt@wandb.com,17235047,analytics-ruby,False,The hassle-free way to integrate analytics into any Ruby application.,0,13-03-2018
-vanpelt,vanpelt@wandb.com,58215,amqp,False,AMQP client implementation in Ruby/EventMachine,0,13-08-2019
-evanphx,evan@phx.io,120141244,atc,False,build scheduler and web interface,0,18-02-2018
-wayneeseguin,wayneeseguin@gmail.com,781533333,AdvProApp,False,N.A.,0,03-04-2024
-wayneeseguin,wayneeseguin@gmail.com,781544235,Adv360-Pro-ZMK,False,Production repository for the all-new Advantage360 Professional using ZMK engine,0,01-05-2024
-wayneeseguin,wayneeseguin@gmail.com,29316799,afero,False,A FileSystem Abstraction System for Go,0,29-11-2023
-vanpelt,vanpelt@wandb.com,111990595,apollo-client,False,":rocket: A fully-featured, production ready caching GraphQL client for every server or UI framework",0,18-02-2018
-wayneeseguin,wayneeseguin@gmail.com,25402715,appfirst-boshrelease,False,AppFirst BOSH Release (ABR),0,29-11-2023
-brynary,N.A.,6974758,active_merchant,False,"Active Merchant is a simple payment abstraction library used in and sponsored by Shopify. It is written by Tobias Luetke, Cody Fauser, and contributors. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.",0,18-02-2018
+ezmobius,N.A.,5282,acl_system2,False,An access control plugin for Rails,1,29-02-2024
+ezmobius,N.A.,1357116,super-nginx,False,killer build of nginx *and* luajit-beta6 plus 21 other modules,1,13-10-2023
+wayneeseguin,wayneeseguin@gmail.com,206,autozest,False,AutoZest is an autotest addon that: * automated growl installation * generation of .autotest with growl & autozest config * generation of .autozest.yml config file * autozest.sqlite3 database file for pulling random messages based on severity,1,19-04-2024
+kevinclark,kevin.clark@gmail.com,322514480,gq-4x4,False,GQ-4x4 util for OS X,1,07-05-2024
+brynary,N.A.,4588940,active_admin,False,The administration framework for Ruby on Rails applications.,1,22-04-2024
+caged,encytemedia@gmail.com,7313553,bbref-graphs,False,Chrome extension to convert tables of statistics to charts on http://basketball-reference.com,1,05-05-2023
+vanpelt,vanpelt@wandb.com,29,jsawesome,False,Awesome JSON,1,19-04-2024
+mojodna,N.A.,8688853,carto,False,hyperspeed CSS-like map styling,1,24-11-2023
+errfree,N.A.,2277888,test,False,N.A.,1,08-10-2022
+errfree,N.A.,789949,test1,False,N.A.,1,20-03-2023
+mojombo,tom@mojombo.com,204457,bertrpc,False,BERTRPC is a Ruby BERT-RPC client library.,0,02-07-2024
+pjhyett,pj@hyett.com,13163,github-services,False,Moved to http://github.com/github/github-services,0,09-06-2024
 brynary,N.A.,11237765,acts-as-taggable-on,False,A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.,0,09-01-2020
-brynary,N.A.,797779329,aperture,False,"Rate limiting, caching, and request prioritization for modern workloads",0,08-05-2024
-kevinclark,kevin.clark@gmail.com,742736505,AdvantageKit,False,Monorepo for robot framework and tools,0,13-01-2024
-kevinclark,kevin.clark@gmail.com,434030863,AdventOfCode-2021,False,Advent of Code 2021,0,08-12-2021
-kevinclark,kevin.clark@gmail.com,317647158,AdventOfCode2020,False,N.A.,0,27-05-2021
-vanpelt,vanpelt@wandb.com,27188,async-observer,False,Rails plugin that provides deep integration with Beanstalk.,0,13-08-2019
-wycats,wycats@gmail.com,591370,active_params,False,N.A.,0,02-04-2024
-wycats,wycats@gmail.com,18471501,agendas,False,TC39 meeting agendas,0,02-04-2024
-wycats,wycats@gmail.com,911701,abbot-ng,False,a place to store my in-progress work on the redone SproutCore build tools,0,02-04-2024
-ezmobius,N.A.,277593,ey-lessql,False,"a collection of chef recipes to install, configure and run a variety of NoSQL db's on the engine yard cloud.",0,13-08-2019
+vanpelt,vanpelt@wandb.com,574342883,dotfiles,False,Hot dot files,0,02-04-2024
+vanpelt,vanpelt@wandb.com,751609464,litellm,False,"Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",0,02-04-2024
+evanphx,evan@phx.io,634425180,consul,False,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",0,30-04-2023
+ivey,ivey@gweezlebur.com,101053,ivey.github.com,False,N.A.,0,21-11-2023
 ivey,ivey@gweezlebur.com,571868522,advent-of-code-2022,False,C++ solutions for Advent of Code 2022,0,21-11-2023
-ivey,ivey@gweezlebur.com,18482177,adventure_cats,False,"Adventure Cats, a game by Ellie and her Dad",0,13-03-2018
+ivey,ivey@gweezlebur.com,107843,enigma-codebook,False,Sinatra app to generate codebooks for Enigma machines,0,31-05-2023
+ivey,ivey@gweezlebur.com,569092225,micropub,False,A Micropub client and server implemented in Python Flask.,0,24-11-2022
 ivey,ivey@gweezlebur.com,569498508,benjifs-micropub,False,N.A.,0,23-11-2022
 ezmobius,N.A.,118801,chef-101,False,A sample chef recipe repo for learning chef-solo,0,20-11-2023
-ivey,ivey@gweezlebur.com,101022,blog,False,N.A.,0,13-08-2019
-evanphx,evan@phx.io,11374954,ace,False,Ace (Ajax.org Cloud9 Editor),0,18-02-2018
-evanphx,evan@phx.io,36110636,amqp,False,Go client for AMQP 0.9.1,0,18-02-2018
-evanphx,evan@phx.io,292633227,asus-fan-control,False,:cyclone: Fan control for ASUS devices running Linux.,0,03-09-2020
-wycats,wycats@gmail.com,3092609,activerecord-import,False,Extraction of the ActiveRecord::Base#import functionality from ar-extensions for Rails 3 and beyon,0,02-04-2024
+pjhyett,pj@hyett.com,5281804,git-server,False,pure ruby version of git daemon server functions,0,09-06-2024
+wycats,wycats@gmail.com,138977917,argon-example,False,N.A.,0,02-04-2024
+wycats,wycats@gmail.com,140189962,codespan,False,Utilities for dealing with source code locations and pretty diagnostic formatting,0,02-04-2024
 pjhyett,pj@hyett.com,112071,blackjax,False,buzzword-powered blackjack game,0,05-02-2024
-defunkt,N.A.,230,ambitious_activeldap,False,Ambition adapter for ActiveLdap,0,19-04-2024
-pjhyett,pj@hyett.com,13163,github-services,False,Moved to http://github.com/github/github-services,0,09-06-2024
-takeo,toby@takeo.email,815975263,htmx-django-daisyui,False,"Example HTMX, Django + DaisyUI to-do list project",0,16-06-2024
-takeo,toby@takeo.email,12777,googlecharts,False,Sexy Charts using Google API & Ruby,0,13-08-2019
-takeo,toby@takeo.email,696175,GoogleAnalyticsProxy,False,"A JavaScript proxy class for Google Analytics, which allows you to test event tracking in development mode.",0,18-02-2018
+wycats,wycats@gmail.com,342411974,chacha,False,N.A.,0,02-04-2024
+wycats,wycats@gmail.com,196286715,broccoli-typescript-compiler,False,N.A.,0,02-04-2024
+pjhyett,pj@hyett.com,561202,ThoughtStream,False,rails-powered tumblelog i wrote in 2007,0,05-02-2024
+takeo,toby@takeo.email,136044,permanent_records,False,Rails Plugin - soft-delete your ActiveRecord records with a deleted_at timestamp.  This is a much more explicit version of ActsAsParanoid,0,13-08-2019
 takeo,toby@takeo.email,52129238,ChromeAutoTextExpander,False,Google Chrome Extension : Auto Text Expander - listens for keypresses on pages that support it and will auto-replace text as you type. Keywords: javascript jquery chrome text expander replacement.,0,09-02-2021
-takeo,toby@takeo.email,1340328,Brief,False,Brief is a Chat Style for Skype 5 on OS X.,0,18-02-2018
-macournoyer,macournoyer@gmail.com,8736610,eventmachine,False,"EventMachine: fast, simple event-processing library for Ruby programs",0,10-08-2018
-macournoyer,macournoyer@gmail.com,212097,em-spec,False,Simple BDD API for testing asynchronous Ruby/EventMachine code,0,20-11-2023
-macournoyer,macournoyer@gmail.com,551544,confoo,False,My Confoo.ca presentation: How to kick assess with asynchronous processing,0,15-05-2014
-macournoyer,macournoyer@gmail.com,6603281,cache_digests,False,N.A.,0,18-02-2018
-macournoyer,macournoyer@gmail.com,20005399,bingo,False,Bingo: An easy to learn programming language for first timers,0,10-07-2020
-technoweenie,technoweenie@hey.com,2374,active_record_context,False,simple identity map for active record.  eager loading associations FTL,0,18-08-2019
-technoweenie,technoweenie@hey.com,3779940,activesupport_notifications_backport,False,N.A.,0,13-02-2023
-technoweenie,technoweenie@hey.com,350879423,-Covid-Vaccine-Scheduling-Tips,False,Some tips on finding a Covid Vaccine Appointment,0,23-03-2021
-technoweenie,technoweenie@hey.com,3582580,15,False,N.A.,0,18-02-2018
-kevinclark,kevin.clark@gmail.com,223032220,aletheia,False,"A superior, open source suite of state-of-the-art steganalysis tools.",0,07-11-2020
-kevinclark,kevin.clark@gmail.com,314925801,ale,False,"Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support",0,06-01-2021
-anotherjesse,anotherjesse@gmail.com,423865892,3monkeyinflation,False,use webxr controllers to add monkeys to your scene,0,02-11-2021
+takeo,toby@takeo.email,464726497,obsidian-lock-screen-plugin,False,N.A.,0,21-01-2022
+takeo,toby@takeo.email,732859112,postmarks,False,a single-user bookmarking website designed to live on the Fediverse,0,18-12-2023
+takeo,toby@takeo.email,815975263,htmx-django-daisyui,False,"Example HTMX, Django + DaisyUI to-do list project",0,16-06-2024
+macournoyer,macournoyer@gmail.com,97394,min,False,The Min language,0,13-03-2024
+macournoyer,macournoyer@gmail.com,389927,nanodb,False,an ultra tiny db,0,12-04-2024
+macournoyer,macournoyer@gmail.com,626995119,magnus,False,"Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.",0,21-05-2024
+macournoyer,macournoyer@gmail.com,386983,mysql_s3_backup,False,A simple backup script for Mysql and S3 with incremental backups.,0,19-06-2024
+technoweenie,technoweenie@hey.com,598176,dealer.js,False,N.A.,0,05-02-2024
+kevinclark,kevin.clark@gmail.com,55214,dotfiles,False,My configs,0,12-01-2024
+technoweenie,technoweenie@hey.com,105,duplikate,False,Syncs one directory to another (example: a git project to an svn repo),0,19-04-2024
+brynary,N.A.,341498,asset-trip,False,Rails asset bundling plugin that will expand your mind,0,13-08-2019
+kevinclark,kevin.clark@gmail.com,305,god,False,Ruby process monitor,0,19-04-2024
+kevinclark,kevin.clark@gmail.com,747394394,gcode.vim,False,Syntax highlighting for NC (G-Code) files,0,23-01-2024
+kevinclark,kevin.clark@gmail.com,742736505,AdvantageKit,False,Monorepo for robot framework and tools,0,13-01-2024
+wayneeseguin,wayneeseguin@gmail.com,237376,dynamic_reports,False,Dynamic Reporting Engine for Ruby && Rails,0,01-06-2024
+wayneeseguin,wayneeseguin@gmail.com,781544235,Adv360-Pro-ZMK,False,Production repository for the all-new Advantage360 Professional using ZMK engine,0,01-05-2024
+wayneeseguin,wayneeseguin@gmail.com,781533333,AdvProApp,False,N.A.,0,03-04-2024
+brynary,N.A.,797779329,aperture,False,"Rate limiting, caching, and request prioritization for modern workloads",0,08-05-2024
 roland,N.A.,3986723,ShowTracker,False,An Android App to manage your TV Shows,0,22-09-2020
-lukas,lukas@wandb.com,122422894,basic-yolo-keras,False,Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).,0,22-02-2018
-lukas,lukas@wandb.com,157126519,audio-super-res,False,Audio super resolution using neural networks,0,11-11-2018
-lukas,lukas@wandb.com,142578563,car-project,False,N.A.,0,27-07-2018
-lukas,lukas@wandb.com,185886446,catz,False,A machine learning contest to predict the behavior of catz,0,13-05-2019
-tomtt,N.A.,573025673,advent_of_code,False,N.A.,0,01-12-2022
-tomtt,N.A.,809295,afg,False,N.A.,0,15-12-2012
-topfunky,N.A.,1441793,bigapp,False,An application with many files. For testing only.,0,15-06-2014
-caged,encytemedia@gmail.com,51460686,bash-test,False,N.A.,0,18-02-2018
-caged,encytemedia@gmail.com,1615857,asset,False,little asset manager for lazy people. written with node ,0,14-07-2019
-caged,encytemedia@gmail.com,136747284,attractor,False,N.A.,0,09-10-2018
-anotherjesse,anotherjesse@gmail.com,427843676,3fft,False,html5 audio mic + fft + threejs,0,14-11-2021
-anotherjesse,anotherjesse@gmail.com,425573089,3linesball,False,N.A.,0,07-11-2021
-anotherjesse,anotherjesse@gmail.com,410377895,3monkey,False,"threejs, instancing, controllers (move/scale), webxr, oculus",0,28-09-2021
-caged,encytemedia@gmail.com,137798,aixmlserialize,False,Aims to convert to and from NSXMLDocuments and NSDictionarys on the iPhone (using KissXML) and OS X.,0,13-08-2019
-nitay,N.A.,467216398,prefect-ui,False,The home of the Prefect UI,0,07-03-2022
-nitay,N.A.,277342568,pidoc,False,Raspberry Pi Cluster Emulation With Docker Compose,0,28-01-2023
+anotherjesse,anotherjesse@gmail.com,553238293,AI-Render,False,Stable Diffusion in Blender,0,28-06-2023
+anotherjesse,anotherjesse@gmail.com,699596578,AnimateDiff,False,Official implementation of AnimateDiff.,0,03-10-2023
+anotherjesse,anotherjesse@gmail.com,647982237,cog-automatic1111,False,N.A.,0,07-02-2024
+topfunky,N.A.,400885347,ffsimulator,False,Simulate Fantasy Football Seasons,0,17-04-2024
+topfunky,N.A.,95217,good_form_builder,False,Form builder for Rails based on Khoi Vinh's Good Form.,0,20-11-2023
+anotherjesse,anotherjesse@gmail.com,818465691,codette,False,N.A.,0,24-06-2024
+anotherjesse,anotherjesse@gmail.com,797873968,clarity-upscaler,False,Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative,0,08-05-2024
+caged,encytemedia@gmail.com,120890,cocos2d-game,False,Xcode Template for cocos2d-based iPhone games.  Includes cocos2d 0.6.3 & the Chipmunk physics engine.,0,08-05-2023
+caged,encytemedia@gmail.com,14038218,cfb-recruiting,False,N.A.,0,05-05-2023
+topfunky,N.A.,792148954,docs,False,The open-source repo for docs.github.com,0,26-04-2024
+caged,encytemedia@gmail.com,707734766,crossgrain,False,Useful tools for woodworkers,0,20-10-2023
 nitay,N.A.,464300591,mill,False,Your shiny new Java/Scala build tool!,0,27-02-2022
+nitay,N.A.,467216398,prefect-ui,False,The home of the Prefect UI,0,07-03-2022
+nitay,N.A.,277706464,raspi3-tutorial,False,Bare metal Raspberry Pi 3 tutorials,0,28-01-2023
+nitay,N.A.,277342568,pidoc,False,Raspberry Pi Cluster Emulation With Docker Compose,0,28-01-2023
 nitay,N.A.,660328760,dbt-snowflake-summit-2023-hands-on-lab-snowpark,False,N.A.,0,29-06-2023
-nitay,N.A.,198945371,ai-deadlines,False,:alarm_clock: AI conference deadline countdowns ,0,19-11-2021
-tomtt,N.A.,224303,bananajour,False,"Local git repository hosting with a sexy web interface and bonjour discovery. It's like your own little adhoc, network-aware github!",0,12-12-2012
-tomtt,N.A.,73728332,angular-beatbox,False,A pattern-based drumming machine based on AngularJS.,0,18-02-2018
-tomtt,N.A.,78560246,ahoy,False,Analytics for Rails,0,18-02-2018
-KirinDave,N.A.,351153458,atm6-sky,False,N.A.,0,27-03-2021
-KirinDave,N.A.,597868161,arcane_isles,False,N.A.,0,02-05-2023
-KirinDave,N.A.,6216245,aws,False,Amazon Web Services for Haskell,0,09-01-2020
-kevwil,N.A.,7061104,c-ration,False,Configuration server based on @typesafehub/config and @playframework/playframework which serves up static and dynamic config based on a file hierarchy.,0,18-02-2018
-kevwil,N.A.,196644274,climate_data,False,place to save some PDFs of denver area high temps,0,12-07-2019
+tomtt,N.A.,54021366,git-money,False,"Work from anywhere, get paid bitcoin.",0,07-01-2020
+tomtt,N.A.,224163612,dotfiles,False,N.A.,0,12-10-2020
+tomtt,N.A.,573025673,advent_of_code,False,N.A.,0,01-12-2022
+lukas,lukas@wandb.com,802435442,promptsearch,False,some experiments with sweeping prompts,0,29-06-2024
+tomtt,N.A.,326380187,bulldoze_renamer,False,A power tool to rename files and names in a code project.,0,19-02-2024
+lukas,lukas@wandb.com,197223017,keras,False,Deep Learning for humans,0,12-06-2024
+lukas,lukas@wandb.com,87006564,lassen,False,N.A.,0,27-06-2024
+kevwil,N.A.,4874487,cloud9,False,"Cloud9 IDE - Your code anywhere, anytime. Open Source Javascript IDE.",0,28-01-2023
 KirinDave,N.A.,4741,arc,False,Paul Graham's Brand New Lisp,0,07-06-2024
-kevwil,N.A.,7097297,c-ration-sample,False,Sample config repository for testing,0,18-02-2018
-kevwil,N.A.,7828160,c-ration-sample2,False,N.A.,0,18-02-2018
-atmos,atmos@atmos.org,301826,aloha_2009,False,my talk on open source business models and independent record labels,0,25-03-2018
-jamesgolick,jamesgolick@gmail.com,3835254,activerecordless_migrations,False,N.A.,0,05-01-2019
-jamesgolick,jamesgolick@gmail.com,890204,action_mailer_verp,False,Send VERP emails with actionmailer. http://en.wikipedia.org/wiki/Variable_envelope_return_path,0,25-04-2018
-jamesgolick,jamesgolick@gmail.com,7360,action_messager,False,Dead simple IM notifications for your app,0,25-01-2022
-KirinDave,N.A.,149353,bilecast,False,A Podcast hosted by me and featuring Coda Hale and Cliff Moon (and guests),0,09-01-2020
-atmos,atmos@atmos.org,127067,as_time_goes_by,False,an example sinatra/rspec/datamapper/webrat app with selenium built in,0,13-08-2019
-atmos,atmos@atmos.org,13460813,atmos-rails,False,A simple rails 4 template for resque and github oauth,0,13-08-2019
-atmos,atmos@atmos.org,16522907,appsly-android-rest,False,An Android client library for RESTful based web services.,0,16-03-2020
-mojodna,N.A.,36765316,abaculus,False,"Library for creating static maps from tiles based on center or corner lng,lat coordinates. Uses node-blend.",0,04-03-2023
-mojodna,N.A.,2367236,AaronCam,False,Camera + Flickr app skeleton,0,24-11-2023
-mojodna,N.A.,78781538,accelerometer,False,D3 accelerometer vis + Node websocket server,0,07-02-2023
-mojodna,N.A.,76239,active_queue,False,A toolkit for queueing tasks and creating worker processes,0,24-11-2023
-bmizerany,blake.mizerany@gmail.com,291873,amazon-ec2,False,A Ruby Gem that gives you full access to the Amazon EC2 API from your Ruby/Ruby on Rails apps,0,12-01-2021
-mojodna,N.A.,150924684,amazon-ecs-cli,False,"The Amazon ECS CLI enables users to run their applications on ECS/Fargate using the Docker Compose file format, quickly provision resources, push/pull images in ECR, and monitor running applications on ECS/Fargate.",0,07-02-2023
-bmizerany,blake.mizerany@gmail.com,66670,amqp,False,AMQP client implementation in Ruby/EventMachine,0,13-08-2019
-bmizerany,blake.mizerany@gmail.com,5322,attrubates,False,Arrtubates sets meta on meta for objects and adds additional rendering helpers for ActionController::Base in Rails.,0,13-08-2019
+kevwil,N.A.,816411777,git-smart,False,Add some smarts to your git workflow,0,17-06-2024
+kevwil,N.A.,318572914,ingress-nginx,False,NGINX Ingress Controller for Kubernetes,0,28-01-2023
+jamesgolick,jamesgolick@gmail.com,320164,conductor-rails,False,A rails stack for conductor.,0,12-10-2023
+jamesgolick,jamesgolick@gmail.com,897376,client_proxy,False,Basic ruby proxy class to use around service clients that handles retrying requests and failover.,0,20-11-2023
+KirinDave,N.A.,520704392,fabric-template,False,"Look, I *told* you I'm back on my bullshit. I don't expect you to understand. ",0,03-08-2022
+KirinDave,N.A.,597868161,arcane_isles,False,N.A.,0,02-05-2023
+kevwil,N.A.,59033287,homebrew-cask,False,A CLI workflow for the administration of Mac applications distributed as binaries,0,28-01-2023
+kevwil,N.A.,145473490,docker-java,False,Java Docker API Client,0,28-01-2023
+atmos,atmos@atmos.org,2267489,atmos.org,False,redirect shit from heroku to github pages,0,10-03-2023
+atmos,atmos@atmos.org,681112,ciderapp.org,False,the site that serves up your recipes,0,05-02-2024
+mojodna,N.A.,12741447,commander.js,False,node.js command-line interfaces made easy,0,24-11-2023
+mojodna,N.A.,807829142,amazon-location-stream-device-data-to-tracker-lambda,False,N.A.,0,29-05-2024
+atmos,atmos@atmos.org,1167358,capybara-standalone,False,"rspec2 and capybara testing, a simple example.",0,07-11-2023
+mojodna,N.A.,9084255,Cascadenik,False,Cascading Sheets Of Style for Mapnik,0,24-11-2023
+bmizerany,blake.mizerany@gmail.com,815787876,binbench,False,N.A.,0,16-06-2024
+mojodna,N.A.,7740041,collectd-write_graphite,False,Graphite output plugin for collectd,0,24-11-2023
+bmizerany,blake.mizerany@gmail.com,363867,contest,False,Write more readable tests in Test::Unit with this tiny script.,0,07-02-2024
+bmizerany,blake.mizerany@gmail.com,698309448,camo,False,N.A.,0,29-09-2023

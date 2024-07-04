@@ -7,8 +7,8 @@ def get_response(url):
     headers = {"Authorization": f"Bearer {credential['GITHUB_TOKEN']}"}
     try:
         response = requests.get(url, headers=headers)
-        json_data = response.json()
-        return json_data
+        data = response.json()
+        return data
     except Exception as e:
         print('Error:', e)
         return None
@@ -18,7 +18,7 @@ def get_github_repos(users, limit=5):
     repos = []
 
     for user in users:
-        for repo in get_response(user['repos_url'])[:5]:
+        for repo in sorted(get_response(user['repos_url']), key=lambda x: x['updated_at'], reverse=True)[:5]:
             github_repo = {
                 'github_username': user['github_username'],
                 'github_email': user['email'],
